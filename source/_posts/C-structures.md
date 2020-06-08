@@ -70,7 +70,7 @@ struct Person* pp;
 pp->age = 30; // 到这里就崩溃了哦~
 ```
 
-稍微分析一下~就明白，我定义了一个指针，却没告诉他指向何方~他就是NULL...然后操作指针...emmm.对不起。
+稍微分析一下，就明白，我定义了一个指针，却没告诉他指向，他就是NULL...然后操作指针...emmm.对不起。
 
 #### 结构体和指针
 
@@ -127,7 +127,7 @@ struct Person* pp = &person; // 这样就可以啦~
     1.1 如果 char* p = "hello"; //  p 指向字符串常量区地址， 
 	1.2 可以理解"hello" 表示一个 const char*， 所以 p 指向 可以改，但是 *p 绝对不能改。
 2. *name 是一个 char 类型的变量~ "hello" 字符串地址怎么能赋值给他呢？ 
-3. 讲size的话，*name 是1byte->8bits;"hello" 首地址在32为是4byte->32bits,64位os里8byte->64bits,会溢出的。
+3. 讲size的话，*name 是1byte == 8bits;"hello" 首地址在32为是4byte->32bits,64位os里8byte->64bits,会溢出的。
 4. *name = "hello" 相当于截取了 "hello" 地址位的最后8位 赋值给了 name[0];     
 ```
 
