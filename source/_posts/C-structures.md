@@ -1,7 +1,7 @@
 ---
-title: C-structures
+title: C structures
 date: 2020-06-08 08:07:12
-tags: C struct Union typedef Enum
+tags: [C,struct,Union,typedef,Enum]
 ---
 
 ## 0.概要

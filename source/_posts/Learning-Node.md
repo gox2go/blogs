@@ -1,7 +1,7 @@
 ---
 title: Learning Node
 date: 2020-05-26 16:21:03
-tags: Node
+tags: [Node]
 ---
 
 # Learning Node 01

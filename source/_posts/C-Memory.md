@@ -1,6 +1,6 @@
 ---
-title: C_Memory
-tags: C Memory
+title: C Memory
+tags: [C,Memory]
 date: 2020-06-07 22:52:54
 ---
 
