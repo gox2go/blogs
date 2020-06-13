@@ -1,7 +1,7 @@
 ---
-title: Algorithm0x00
+title: Algorithm00
 date: 2020-06-09 07:56:45
-tags:[Algorithm,C]
+tags: [Algorithm,C]
 ---
 
 ## 概述
