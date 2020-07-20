@@ -10,6 +10,8 @@ tags: [Node]
 
 Node是一个`platform`或者`running enviroment`.可以是`javascript`在`server`端跑起来。
 
+<!-- more -->
+
 ### 1.凭什么？
 
 ### 2.是个什么？

@@ -14,6 +14,8 @@ tags: [C,struct,Union,typedef,Enum]
 
 一些产生的疑惑，会在内容里产生，会在最后找到答案，或者没找到。
 
+<!-- more -->
+
 ## 1.内容
 
 - **结构体`struct`**

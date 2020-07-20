@@ -3,12 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
+author: Frankie.S
 title: At Frankis' 
-subtitle: 'From humble beginnings to greatness.'
-description: 'Learning & other stuff recording '
-keywords:
-author: Frankie SS
-language: en
+# subtitle: 'From humble beginnings to greatness.'
+subtitle: 'From humble beginning.'
+description: 'Aim to record new knowledges in structure for better reviewing,and record new ideas for better sharing.' 
 timezone: ''
 
 # URL
@@ -93,7 +92,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icarus
+theme: next 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
